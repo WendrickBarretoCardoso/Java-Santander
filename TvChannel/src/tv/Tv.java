@@ -1,4 +1,4 @@
-package src;
+package src.tv;
 
 public class Tv {
     public static void main(String[] args) throws Exception {

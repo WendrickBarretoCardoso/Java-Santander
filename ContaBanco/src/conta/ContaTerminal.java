@@ -1,4 +1,4 @@
-package src;
+package src.conta;
 
 import java.util.Scanner;
 

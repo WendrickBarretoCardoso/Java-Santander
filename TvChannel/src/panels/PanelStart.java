@@ -1,4 +1,4 @@
-package panels;
+package src.panels;
 
 public class PanelStart {
     
