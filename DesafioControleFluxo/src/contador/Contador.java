@@ -1,21 +1,23 @@
 package src.contador;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 import src.exception.ParametrosInvalidosException;
 
 public class Contador {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Digite o primeiro parâmetro");
-		int parametroUm = scan.nextInt();
-		System.out.println("Digite o segundo parâmetro");
-        int parametroDois = scan.nextInt();
-        scan.close();
-
-        try {          
+        try {     
+            System.out.println("Digite o primeiro parâmetro");
+		    int parametroUm = scan.nextInt();
+		    System.out.println("Digite o segundo parâmetro");
+            int parametroDois = scan.nextInt();
+            scan.close();     
         contar(parametroUm, parametroDois);
         } catch (ParametrosInvalidosException e) {
             System.out.println(e.getMessage());
+        } catch (InputMismatchException e) {
+            System.out.println("Escreva um inteiro");
         }
     }
 

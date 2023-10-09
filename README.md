@@ -12,18 +12,19 @@
 #### 1º Módulo: Linguagem de Programação JAVA
 
     1. Sintaxe.✅
-    2. Estruturas Condicionais.
-    3. Estruturas de Repetição.
-    4. Tratamento de exceções.
+    2. Estruturas Condicionais.✅
+    3. Estruturas de Repetição.✅
+    4. Tratamento de exceções.✅
 
     Nele também faremos os seguintes Desafios:
 
-    1. Validação de Processo Seletivo.
-    2. Equilibrando o Saldo.
-    3. Organizando seus Ativos.
-    4. Condicionalmente Rico.
-    5. Juros Compostos.
-    6. Grande Depósito.
+    1. Conta Banco✅
+    2. Validação de Processo Seletivo.✅
+    3. Equilibrando o Saldo.
+    4. Organizando seus Ativos.
+    5. Condicionalmente Rico.
+    6. Juros Compostos.
+    7. Grande Depósito.
 
 #### 2º Módulo: JAVA POO
 
