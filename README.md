@@ -18,10 +18,10 @@
 
     Nele também faremos os seguintes Desafios:
 
-    1. Conta Banco✅
+    1. Conta Banco.✅
     2. Validação de Processo Seletivo.✅
-    3. Equilibrando o Saldo.
-    4. Organizando seus Ativos.
+    3. Equilibrando o Saldo.✅
+    4. Organizando seus Ativos.✅
     5. Condicionalmente Rico.
     6. Juros Compostos.
     7. Grande Depósito.
