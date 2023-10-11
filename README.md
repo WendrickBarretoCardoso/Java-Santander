@@ -18,13 +18,13 @@
 
     Nele também faremos os seguintes Desafios:
 
-    1. Conta Banco.✅
-    2. Validação de Processo Seletivo.✅
-    3. Equilibrando o Saldo.✅
-    4. Organizando seus Ativos.✅
-    5. Condicionalmente Rico.✅
-    6. Juros Compostos.
-    7. Grande Depósito.
+    1. [Conta Banco.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/ContaBanco/src/conta/ContaTerminal.java)✅
+    2. [Validação de Processo Seletivo.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/DesafioControleFluxo/src/contador/Contador.java)✅
+    3. [Equilibrando o Saldo.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/EquilibrandoSaldo/src/EquilibrandoSaldo.java)✅
+    4. [Organizando seus Ativos.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/OrganizandoAtivos/src/BancoOrganizadorAtivos.java)✅
+    5. [Condicionalmente Rico.]https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/CondicionalmenteRico/src/CondicionalmenteRico.java)✅
+    6. [Juros Compostos.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/JurosCompostos/src/JurosCompostos.java)✅
+    7. [Grande Depósito.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/GrandeDeposito/src/GrandeDeposito.java)
 
 #### 2º Módulo: JAVA POO
 
