@@ -22,7 +22,7 @@
     2. Validação de Processo Seletivo.✅
     3. Equilibrando o Saldo.✅
     4. Organizando seus Ativos.✅
-    5. Condicionalmente Rico.
+    5. Condicionalmente Rico.✅
     6. Juros Compostos.
     7. Grande Depósito.
 

@@ -11,7 +11,7 @@ public class CondicionalmenteRico {
         if (valorSaque > saldoTotal) {
             System.out.println("Saldo insuficiente. Saque nao realizado!");
         } else {
-            System.out.println(String.format("Saque realizado com sucesso! Novo saldo: %d", (saldoTotal - valorSaque)));
+            System.out.println(String.format("Saque realizado com sucesso. Novo saldo: %d", (saldoTotal - valorSaque)));
         }
     }
 }
