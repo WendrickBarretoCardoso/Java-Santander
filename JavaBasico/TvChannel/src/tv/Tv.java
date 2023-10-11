@@ -1,7 +1,9 @@
 package src.tv;
 
+import src.panels.PanelStart;
+
 public class Tv {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        PanelStart.tvStart();
     }
 }
