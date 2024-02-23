@@ -4,9 +4,10 @@
 
 ### Curso que visa abordar uma trilha em **JAVA POO**, **Banco de Dados SQL e NoSQL**, **Spring Framework**
 
-#### Nesse curso aprenderemos os módulos:
+#### Nesse curso aprenderemos os módulos
 
-##### - Os Desafios terão o link do repositório a medida em que irei fazendo os desafios.
+##### - Os Desafios terão o link do repositório a medida em que irei fazendo os desafios
+
 ##### - Módulos concluidos serão marcados com ✅
 
 #### 1º Módulo: Linguagem de Programação JAVA
@@ -25,7 +26,6 @@ Nele também faremos os seguintes Desafios:
 5. [Condicionalmente Rico.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/CondicionalmenteRico/src/CondicionalmenteRico.java)✅
 6. [Juros Compostos.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/JurosCompostos/src/JurosCompostos.java)✅
 7. [Grande Depósito.](https://github.com/WendrickBarretoCardoso/Java-Santander/blob/main/JavaBasico/GrandeDeposito/src/GrandeDeposito.java)✅
-
 
 #### 2º Módulo: JAVA POO
 
